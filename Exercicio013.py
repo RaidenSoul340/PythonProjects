@@ -1,0 +1,5 @@
+s = float(input("Digite o salario atual. R$"))
+c = int(input("Digite o aumento do porcentual %"))
+n = input("Digite o seu nome: ")
+a = ((s*c)/100 + s)
+print("{} agora passara a ganhar R${:.2f}".format(n, a))

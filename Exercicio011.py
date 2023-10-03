@@ -1,0 +1,6 @@
+l1 = float(input("Digite a largura: "))
+l2 = float(input("Digite o comprimento: "))
+area = (l1*l2)
+tinta = (area/2)
+print("O comprimento da sua parede é {}x{} e sua área total é {}m²".format(l1, l2, area))
+print("A quantidade de tinta usa foi {}L".format(tinta))

@@ -1,0 +1,6 @@
+d = int(input("Por quantos dias o carro foi alugado? "))
+k = int(input("Quantos km o carro andou?  "))
+c = float(input("Quanto custa o aluguel do carro por dia? "))
+a = float(input("Quanto custa por km rodado?  "))
+t = ((d*c) + (k*a))
+print("O valor total foi R${:.2f}".format(t))
