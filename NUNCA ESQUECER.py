@@ -5,7 +5,7 @@
 #80% para treino. 10% para teste. 10% para teste no mundo real;
 #O algoritmo sempre tera 3 fases:Treinar os algoritmos. Testar os algoritmos.
 #Escolher o melhor entre eles e testar com os dados reais;
-#Começa a escrever os bagui em Inglês(15/02/2022), menos essa página;
+#Começa a escrever os códigos em Inglês(15/02/2022), menos essa página;
 
 #============================================================================================================================================#
 #Percebemos que nem todas as colunas nos transmitem o mesmo tipo de informação. Algumas possuem palavras como valores e outras possuem números. 
